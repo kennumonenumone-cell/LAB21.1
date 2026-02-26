@@ -1,2 +1,2 @@
-# NAME:680610779
-# STUDENT ID:Phatarapol Thanarujiwong
+# NAME:Phatarapol Thanarujiwong
+# STUDENT ID:680610779
